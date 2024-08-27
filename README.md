@@ -1,4 +1,4 @@
-[![MasterHead][](RanggaProgammer)
+
 <h1 align="center">Hi 👋, I'm Rangga Arya Putra</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
