@@ -1,4 +1,4 @@
-[![MasterHead][<a href="https://www.vecteezy.com/video/24148818-high-speed-fiber-data-transfer-5g-4g-bits-internet-ai-network-technology-information-matrix">High-Speed Fiber data transfer 5G 4G bits internet AI network technology information matrix Stock Videos by Vecteezy</a>](RanggaProgammer)
+[![MasterHead][](RanggaProgammer)
 <h1 align="center">Hi 👋, I'm Rangga Arya Putra</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
