@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](RanggaProgammer)
+[![MasterHead](https://tenor.com/id/view/cyberpunk-hacker-gif-5648979)](RanggaProgammer)
 <h1 align="center">Hi 👋, I'm Rangga Arya Putra</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
